@@ -29,9 +29,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Manthan894/LeetCode-Question/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Manthan894/LeetCode-Question/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Manthan894/LeetCode-Question/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Manthan894/LeetCode-Question/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
