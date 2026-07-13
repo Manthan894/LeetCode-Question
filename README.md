@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Manthan894/LeetCode-Question/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0986-interval-list-intersections](https://github.com/Manthan894/LeetCode-Question/tree/main/0986-interval-list-intersections/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Manthan894/LeetCode-Question/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Manthan894/LeetCode-Question/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manthan894/LeetCode-Question/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0986-interval-list-intersections](https://github.com/Manthan894/LeetCode-Question/tree/main/0986-interval-list-intersections/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manthan894/LeetCode-Question/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Binary Search
@@ -90,4 +92,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Manthan894/LeetCode-Question/tree/main/0056-merge-intervals/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/Manthan894/LeetCode-Question/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
