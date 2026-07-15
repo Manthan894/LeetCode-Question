@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0567-permutation-in-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Manthan894/LeetCode-Question/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
