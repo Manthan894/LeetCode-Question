@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Manthan894/LeetCode-Question/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Manthan894/LeetCode-Question/tree/main/0206-reverse-linked-list/) | Easy |
