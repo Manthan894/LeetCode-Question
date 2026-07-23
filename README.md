@@ -1,10 +1,9 @@
-# LeetCode-Question
-LeetCode solve question repo it explain the following point 
-Part - A Basic DSA 
-Hashtable , String , Array , LinkedList , Stack , Queue 
-Part - B Patterns 
-2 pointers , Fast & Slow pointers , Sliding Window , Kadane pattern , PREFIX SUM , Merge Intervals , In-place Reversal of a LinkedList , Stack pattern , Hashmap pattern 
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+# LeetCode-Question <br>
+LeetCode solve question repo it explain the following point <br>
+Part - A Basic DSA <br>
+Hashtable , String , Array , LinkedList , Stack , Queue <br>
+Part - B Patterns <br>
+2 pointers , Fast & Slow pointers , Sliding Window , Kadane pattern , PREFIX SUM , Merge Intervals , In-place Reversal of a LinkedList , Stack pattern , Hashmap pattern <br>
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
