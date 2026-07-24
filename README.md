@@ -10,6 +10,7 @@ Part - B Patterns <br>
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Manthan894/LeetCode-Question/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Manthan894/LeetCode-Question/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -26,6 +27,7 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Manthan894/LeetCode-Question/tree/main/0020-valid-parentheses/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0071-simplify-path](https://github.com/Manthan894/LeetCode-Question/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Manthan894/LeetCode-Question/tree/main/0076-minimum-window-substring/) | Hard |
 | [0383-ransom-note](https://github.com/Manthan894/LeetCode-Question/tree/main/0383-ransom-note/) | Easy |
@@ -38,6 +40,7 @@ Part - B Patterns <br>
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Manthan894/LeetCode-Question/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0567-permutation-in-string/) | Medium |
