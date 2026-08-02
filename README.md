@@ -58,6 +58,7 @@ Part - B Patterns <br>
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Manthan894/LeetCode-Question/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Manthan894/LeetCode-Question/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manthan894/LeetCode-Question/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Manthan894/LeetCode-Question/tree/main/0061-rotate-list/) | Medium |
@@ -104,6 +105,7 @@ Part - B Patterns <br>
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Manthan894/LeetCode-Question/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Manthan894/LeetCode-Question/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0202-happy-number/) | Easy |
@@ -164,6 +166,7 @@ Part - B Patterns <br>
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Manthan894/LeetCode-Question/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Manthan894/LeetCode-Question/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manthan894/LeetCode-Question/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Manthan894/LeetCode-Question/tree/main/0206-reverse-linked-list/) | Easy |
