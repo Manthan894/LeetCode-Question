@@ -85,6 +85,7 @@ Part - B Patterns <br>
 | [0724-find-pivot-index](https://github.com/Manthan894/LeetCode-Question/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Manthan894/LeetCode-Question/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manthan894/LeetCode-Question/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0986-interval-list-intersections](https://github.com/Manthan894/LeetCode-Question/tree/main/0986-interval-list-intersections/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manthan894/LeetCode-Question/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -109,6 +110,7 @@ Part - B Patterns <br>
 | [0007-reverse-integer](https://github.com/Manthan894/LeetCode-Question/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0202-happy-number/) | Easy |
+| [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ Part - B Patterns <br>
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manthan894/LeetCode-Question/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Prefix Sum
@@ -170,4 +173,16 @@ Part - B Patterns <br>
 | [0024-swap-nodes-in-pairs](https://github.com/Manthan894/LeetCode-Question/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manthan894/LeetCode-Question/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Manthan894/LeetCode-Question/tree/main/0206-reverse-linked-list/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
