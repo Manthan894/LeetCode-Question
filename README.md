@@ -10,6 +10,7 @@ Part - B Patterns <br>
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Manthan894/LeetCode-Question/tree/main/0012-integer-to-roman/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Manthan894/LeetCode-Question/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Manthan894/LeetCode-Question/tree/main/0141-linked-list-cycle/) | Easy |
@@ -26,6 +27,7 @@ Part - B Patterns <br>
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Manthan894/LeetCode-Question/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/Manthan894/LeetCode-Question/tree/main/0020-valid-parentheses/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0071-simplify-path](https://github.com/Manthan894/LeetCode-Question/tree/main/0071-simplify-path/) | Medium |
@@ -113,6 +115,7 @@ Part - B Patterns <br>
 | [0002-add-two-numbers](https://github.com/Manthan894/LeetCode-Question/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Manthan894/LeetCode-Question/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/Manthan894/LeetCode-Question/tree/main/0012-integer-to-roman/) | Medium |
 | [0202-happy-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0202-happy-number/) | Easy |
 | [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
 ## Divide and Conquer
