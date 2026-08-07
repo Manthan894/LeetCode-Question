@@ -80,6 +80,7 @@ Part - B Patterns <br>
 | [0057-insert-interval](https://github.com/Manthan894/LeetCode-Question/tree/main/0057-insert-interval/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0275-h-index-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0525-contiguous-array/) | Medium |
@@ -101,6 +102,7 @@ Part - B Patterns <br>
 | [0033-search-in-rotated-sorted-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0275-h-index-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Manthan894/LeetCode-Question/tree/main/0875-koko-eating-bananas/) | Medium |
