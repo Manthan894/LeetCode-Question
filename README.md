@@ -27,6 +27,7 @@ Part - B Patterns <br>
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Manthan894/LeetCode-Question/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/Manthan894/LeetCode-Question/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/Manthan894/LeetCode-Question/tree/main/0020-valid-parentheses/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
@@ -131,6 +132,7 @@ Part - B Patterns <br>
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Manthan894/LeetCode-Question/tree/main/0010-regular-expression-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
@@ -182,6 +184,7 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Manthan894/LeetCode-Question/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Manthan894/LeetCode-Question/tree/main/0010-regular-expression-matching/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Manthan894/LeetCode-Question/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manthan894/LeetCode-Question/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Manthan894/LeetCode-Question/tree/main/0206-reverse-linked-list/) | Easy |
