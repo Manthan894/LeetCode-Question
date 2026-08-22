@@ -24,6 +24,7 @@ Part - B Patterns <br>
 | [0525-contiguous-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Manthan894/LeetCode-Question/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manthan894/LeetCode-Question/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -96,6 +97,7 @@ Part - B Patterns <br>
 | [0503-next-greater-element-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Manthan894/LeetCode-Question/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/Manthan894/LeetCode-Question/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Manthan894/LeetCode-Question/tree/main/0739-daily-temperatures/) | Medium |
@@ -165,6 +167,7 @@ Part - B Patterns <br>
 | [0018-4sum](https://github.com/Manthan894/LeetCode-Question/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Manthan894/LeetCode-Question/tree/main/0056-merge-intervals/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 ## Sweep Line
@@ -195,6 +198,7 @@ Part - B Patterns <br>
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Manthan894/LeetCode-Question/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
@@ -202,6 +206,7 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Manthan894/LeetCode-Question/tree/main/0409-longest-palindrome/) | Easy |
+| [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
 ## Recursion
@@ -239,6 +244,7 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 ## Bucket Sort
