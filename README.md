@@ -264,4 +264,5 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/Manthan894/LeetCode-Question/tree/main/0183-customers-who-never-order/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/Manthan894/LeetCode-Question/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
