@@ -58,6 +58,7 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Manthan894/LeetCode-Question/tree/main/0018-4sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Manthan894/LeetCode-Question/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Manthan894/LeetCode-Question/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Manthan894/LeetCode-Question/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -85,6 +86,7 @@ Part - B Patterns <br>
 | [0018-4sum](https://github.com/Manthan894/LeetCode-Question/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Manthan894/LeetCode-Question/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Manthan894/LeetCode-Question/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Manthan894/LeetCode-Question/tree/main/0057-insert-interval/) | Medium |
@@ -149,6 +151,7 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Manthan894/LeetCode-Question/tree/main/0010-regular-expression-matching/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Manthan894/LeetCode-Question/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
@@ -178,6 +181,7 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Manthan894/LeetCode-Question/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Manthan894/LeetCode-Question/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Manthan894/LeetCode-Question/tree/main/0071-simplify-path/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Manthan894/LeetCode-Question/tree/main/0739-daily-temperatures/) | Medium |
@@ -186,6 +190,7 @@ Part - B Patterns <br>
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Manthan894/LeetCode-Question/tree/main/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Manthan894/LeetCode-Question/tree/main/0739-daily-temperatures/) | Medium |
 ## Queue
