@@ -15,6 +15,7 @@ Part - B Patterns <br>
 | [0076-minimum-window-substring](https://github.com/Manthan894/LeetCode-Question/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Manthan894/LeetCode-Question/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0202-happy-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Manthan894/LeetCode-Question/tree/main/0383-ransom-note/) | Easy |
@@ -92,6 +93,7 @@ Part - B Patterns <br>
 | [0057-insert-interval](https://github.com/Manthan894/LeetCode-Question/tree/main/0057-insert-interval/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0275-h-index-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -145,6 +147,7 @@ Part - B Patterns <br>
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manthan894/LeetCode-Question/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Dynamic Programming
@@ -169,6 +172,7 @@ Part - B Patterns <br>
 | ------- | ------- |
 | [0018-4sum](https://github.com/Manthan894/LeetCode-Question/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Manthan894/LeetCode-Question/tree/main/0056-merge-intervals/) | Medium |
+| [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -200,6 +204,7 @@ Part - B Patterns <br>
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Manthan894/LeetCode-Question/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -270,4 +275,8 @@ Part - B Patterns <br>
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/Manthan894/LeetCode-Question/tree/main/0183-customers-who-never-order/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Manthan894/LeetCode-Question/tree/main/0511-game-play-analysis-i/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
