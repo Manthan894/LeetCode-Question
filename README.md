@@ -116,6 +116,7 @@ Part - B Patterns <br>
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manthan894/LeetCode-Question/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Manthan894/LeetCode-Question/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manthan894/LeetCode-Question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -221,6 +222,7 @@ Part - B Patterns <br>
 | [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Manthan894/LeetCode-Question/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
