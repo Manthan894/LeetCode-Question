@@ -281,6 +281,7 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Manthan894/LeetCode-Question/tree/main/0175-combine-two-tables/) | Easy |
+| [0178-rank-scores](https://github.com/Manthan894/LeetCode-Question/tree/main/0178-rank-scores/) | Medium |
 | [0183-customers-who-never-order](https://github.com/Manthan894/LeetCode-Question/tree/main/0183-customers-who-never-order/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Manthan894/LeetCode-Question/tree/main/0511-game-play-analysis-i/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
