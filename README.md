@@ -113,6 +113,7 @@ Part - B Patterns <br>
 | [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manthan894/LeetCode-Question/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0986-interval-list-intersections](https://github.com/Manthan894/LeetCode-Question/tree/main/0986-interval-list-intersections/) | Medium |
+| [1046-last-stone-weight](https://github.com/Manthan894/LeetCode-Question/tree/main/1046-last-stone-weight/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manthan894/LeetCode-Question/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manthan894/LeetCode-Question/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -264,6 +265,7 @@ Part - B Patterns <br>
 | [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
+| [1046-last-stone-weight](https://github.com/Manthan894/LeetCode-Question/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
