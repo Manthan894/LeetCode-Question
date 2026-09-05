@@ -100,6 +100,7 @@ Part - B Patterns <br>
 | [0275-h-index-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0502-ipo](https://github.com/Manthan894/LeetCode-Question/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/Manthan894/LeetCode-Question/tree/main/0506-relative-ranks/) | Easy |
 | [0525-contiguous-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0525-contiguous-array/) | Medium |
@@ -179,6 +180,7 @@ Part - B Patterns <br>
 | [0056-merge-intervals](https://github.com/Manthan894/LeetCode-Question/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0502-ipo](https://github.com/Manthan894/LeetCode-Question/tree/main/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/Manthan894/LeetCode-Question/tree/main/0506-relative-ranks/) | Easy |
 | [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -222,6 +224,7 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Manthan894/LeetCode-Question/tree/main/0409-longest-palindrome/) | Easy |
+| [0502-ipo](https://github.com/Manthan894/LeetCode-Question/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
@@ -261,6 +264,7 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0502-ipo](https://github.com/Manthan894/LeetCode-Question/tree/main/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/Manthan894/LeetCode-Question/tree/main/0506-relative-ranks/) | Easy |
 | [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
