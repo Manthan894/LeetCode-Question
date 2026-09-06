@@ -106,6 +106,7 @@ Part - B Patterns <br>
 | [0525-contiguous-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Manthan894/LeetCode-Question/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
+| [0630-course-schedule-iii](https://github.com/Manthan894/LeetCode-Question/tree/main/0630-course-schedule-iii/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/Manthan894/LeetCode-Question/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Manthan894/LeetCode-Question/tree/main/0739-daily-temperatures/) | Medium |
@@ -183,6 +184,7 @@ Part - B Patterns <br>
 | [0502-ipo](https://github.com/Manthan894/LeetCode-Question/tree/main/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/Manthan894/LeetCode-Question/tree/main/0506-relative-ranks/) | Easy |
 | [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
+| [0630-course-schedule-iii](https://github.com/Manthan894/LeetCode-Question/tree/main/0630-course-schedule-iii/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 ## Sweep Line
@@ -226,6 +228,7 @@ Part - B Patterns <br>
 | [0409-longest-palindrome](https://github.com/Manthan894/LeetCode-Question/tree/main/0409-longest-palindrome/) | Easy |
 | [0502-ipo](https://github.com/Manthan894/LeetCode-Question/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
+| [0630-course-schedule-iii](https://github.com/Manthan894/LeetCode-Question/tree/main/0630-course-schedule-iii/) | Hard |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Manthan894/LeetCode-Question/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -267,6 +270,7 @@ Part - B Patterns <br>
 | [0502-ipo](https://github.com/Manthan894/LeetCode-Question/tree/main/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/Manthan894/LeetCode-Question/tree/main/0506-relative-ranks/) | Easy |
 | [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
+| [0630-course-schedule-iii](https://github.com/Manthan894/LeetCode-Question/tree/main/0630-course-schedule-iii/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 | [1046-last-stone-weight](https://github.com/Manthan894/LeetCode-Question/tree/main/1046-last-stone-weight/) | Easy |
