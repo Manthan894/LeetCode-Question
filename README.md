@@ -67,6 +67,7 @@ Part - B Patterns <br>
 | [0142-linked-list-cycle-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/Manthan894/LeetCode-Question/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Manthan894/LeetCode-Question/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Manthan894/LeetCode-Question/tree/main/0986-interval-list-intersections/) | Medium |
@@ -182,6 +183,7 @@ Part - B Patterns <br>
 | [0018-4sum](https://github.com/Manthan894/LeetCode-Question/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Manthan894/LeetCode-Question/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Manthan894/LeetCode-Question/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0502-ipo](https://github.com/Manthan894/LeetCode-Question/tree/main/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/Manthan894/LeetCode-Question/tree/main/0506-relative-ranks/) | Easy |
@@ -269,6 +271,7 @@ Part - B Patterns <br>
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Manthan894/LeetCode-Question/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0502-ipo](https://github.com/Manthan894/LeetCode-Question/tree/main/0502-ipo/) | Hard |
 | [0506-relative-ranks](https://github.com/Manthan894/LeetCode-Question/tree/main/0506-relative-ranks/) | Easy |
@@ -302,4 +305,12 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Manthan894/LeetCode-Question/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Manthan894/LeetCode-Question/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
