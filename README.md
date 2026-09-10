@@ -152,6 +152,7 @@ Part - B Patterns <br>
 | [0009-palindrome-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Manthan894/LeetCode-Question/tree/main/0012-integer-to-roman/) | Medium |
 | [0202-happy-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0202-happy-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
 ## Divide and Conquer
@@ -169,6 +170,7 @@ Part - B Patterns <br>
 | [0042-trapping-rain-water](https://github.com/Manthan894/LeetCode-Question/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0509-fibonacci-number/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Manthan894/LeetCode-Question/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manthan894/LeetCode-Question/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -248,6 +250,7 @@ Part - B Patterns <br>
 | [0024-swap-nodes-in-pairs](https://github.com/Manthan894/LeetCode-Question/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manthan894/LeetCode-Question/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Manthan894/LeetCode-Question/tree/main/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0509-fibonacci-number/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,4 +324,8 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0480-sliding-window-median](https://github.com/Manthan894/LeetCode-Question/tree/main/0480-sliding-window-median/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
