@@ -208,6 +208,7 @@ Part - B Patterns <br>
 | [0042-trapping-rain-water](https://github.com/Manthan894/LeetCode-Question/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Manthan894/LeetCode-Question/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manthan894/LeetCode-Question/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manthan894/LeetCode-Question/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Manthan894/LeetCode-Question/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -341,6 +342,7 @@ Part - B Patterns <br>
 | [0110-balanced-binary-tree](https://github.com/Manthan894/LeetCode-Question/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Manthan894/LeetCode-Question/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Manthan894/LeetCode-Question/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manthan894/LeetCode-Question/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -351,6 +353,7 @@ Part - B Patterns <br>
 | [0110-balanced-binary-tree](https://github.com/Manthan894/LeetCode-Question/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Manthan894/LeetCode-Question/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Manthan894/LeetCode-Question/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manthan894/LeetCode-Question/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -361,6 +364,7 @@ Part - B Patterns <br>
 | [0110-balanced-binary-tree](https://github.com/Manthan894/LeetCode-Question/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Manthan894/LeetCode-Question/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Manthan894/LeetCode-Question/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manthan894/LeetCode-Question/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
