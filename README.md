@@ -312,6 +312,7 @@ Part - B Patterns <br>
 | [0178-rank-scores](https://github.com/Manthan894/LeetCode-Question/tree/main/0178-rank-scores/) | Medium |
 | [0183-customers-who-never-order](https://github.com/Manthan894/LeetCode-Question/tree/main/0183-customers-who-never-order/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Manthan894/LeetCode-Question/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Manthan894/LeetCode-Question/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
