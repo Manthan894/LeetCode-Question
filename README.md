@@ -13,6 +13,7 @@ Part - B Patterns <br>
 | [0012-integer-to-roman](https://github.com/Manthan894/LeetCode-Question/tree/main/0012-integer-to-roman/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Manthan894/LeetCode-Question/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Manthan894/LeetCode-Question/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Manthan894/LeetCode-Question/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
@@ -97,6 +98,7 @@ Part - B Patterns <br>
 | [0053-maximum-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Manthan894/LeetCode-Question/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Manthan894/LeetCode-Question/tree/main/0057-insert-interval/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Manthan894/LeetCode-Question/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
@@ -374,4 +376,8 @@ Part - B Patterns <br>
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manthan894/LeetCode-Question/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Manthan894/LeetCode-Question/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Manthan894/LeetCode-Question/tree/main/0112-path-sum/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Manthan894/LeetCode-Question/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
