@@ -17,6 +17,7 @@ Part - B Patterns <br>
 | [0141-linked-list-cycle](https://github.com/Manthan894/LeetCode-Question/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/Manthan894/LeetCode-Question/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0202-happy-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Manthan894/LeetCode-Question/tree/main/0205-isomorphic-strings/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -42,6 +43,7 @@ Part - B Patterns <br>
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0071-simplify-path](https://github.com/Manthan894/LeetCode-Question/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Manthan894/LeetCode-Question/tree/main/0076-minimum-window-substring/) | Hard |
+| [0187-repeated-dna-sequences](https://github.com/Manthan894/LeetCode-Question/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Manthan894/LeetCode-Question/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/Manthan894/LeetCode-Question/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -57,6 +59,7 @@ Part - B Patterns <br>
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Manthan894/LeetCode-Question/tree/main/0076-minimum-window-substring/) | Hard |
+| [0187-repeated-dna-sequences](https://github.com/Manthan894/LeetCode-Question/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0480-sliding-window-median](https://github.com/Manthan894/LeetCode-Question/tree/main/0480-sliding-window-median/) | Hard |
 | [0567-permutation-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0567-permutation-in-string/) | Medium |
@@ -146,6 +149,7 @@ Part - B Patterns <br>
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Manthan894/LeetCode-Question/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -380,4 +384,20 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Manthan894/LeetCode-Question/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Manthan894/LeetCode-Question/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Manthan894/LeetCode-Question/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Manthan894/LeetCode-Question/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Manthan894/LeetCode-Question/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
