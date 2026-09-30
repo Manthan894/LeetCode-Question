@@ -53,6 +53,7 @@ Part - B Patterns <br>
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Manthan894/LeetCode-Question/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -218,6 +219,7 @@ Part - B Patterns <br>
 | [0503-next-greater-element-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Manthan894/LeetCode-Question/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Manthan894/LeetCode-Question/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -404,4 +406,8 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Manthan894/LeetCode-Question/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Manthan894/LeetCode-Question/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 <!---LeetCode Topics End-->
