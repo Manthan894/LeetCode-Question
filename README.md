@@ -318,6 +318,7 @@ Part - B Patterns <br>
 | [0177-nth-highest-salary](https://github.com/Manthan894/LeetCode-Question/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/Manthan894/LeetCode-Question/tree/main/0178-rank-scores/) | Medium |
 | [0183-customers-who-never-order](https://github.com/Manthan894/LeetCode-Question/tree/main/0183-customers-who-never-order/) | Easy |
+| [0184-department-highest-salary](https://github.com/Manthan894/LeetCode-Question/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Manthan894/LeetCode-Question/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/Manthan894/LeetCode-Question/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Manthan894/LeetCode-Question/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
