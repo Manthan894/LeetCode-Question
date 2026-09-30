@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+# Similar to top 3 highest salary just change 3->1 in where clause/condition
 WITH RankedSalaries AS (
     SELECT 
         d.name AS Department,
