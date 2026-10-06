@@ -66,6 +66,7 @@ Part - B Patterns <br>
 | [0438-find-all-anagrams-in-a-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0480-sliding-window-median](https://github.com/Manthan894/LeetCode-Question/tree/main/0480-sliding-window-median/) | Hard |
 | [0567-permutation-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Part - B Patterns <br>
 | [0287-find-the-duplicate-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Manthan894/LeetCode-Question/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Manthan894/LeetCode-Question/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Manthan894/LeetCode-Question/tree/main/0986-interval-list-intersections/) | Medium |
 ## Linked List
@@ -120,6 +122,7 @@ Part - B Patterns <br>
 | [0560-subarray-sum-equals-k](https://github.com/Manthan894/LeetCode-Question/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Manthan894/LeetCode-Question/tree/main/0630-course-schedule-iii/) | Hard |
+| [0658-find-k-closest-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/Manthan894/LeetCode-Question/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Manthan894/LeetCode-Question/tree/main/0739-daily-temperatures/) | Medium |
@@ -146,6 +149,7 @@ Part - B Patterns <br>
 | [0240-search-a-2d-matrix-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0275-h-index-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Manthan894/LeetCode-Question/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manthan894/LeetCode-Question/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -206,6 +210,7 @@ Part - B Patterns <br>
 | [0506-relative-ranks](https://github.com/Manthan894/LeetCode-Question/tree/main/0506-relative-ranks/) | Easy |
 | [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Manthan894/LeetCode-Question/tree/main/0630-course-schedule-iii/) | Hard |
+| [0658-find-k-closest-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 ## Sweep Line
@@ -301,6 +306,7 @@ Part - B Patterns <br>
 | [0506-relative-ranks](https://github.com/Manthan894/LeetCode-Question/tree/main/0506-relative-ranks/) | Easy |
 | [0621-task-scheduler](https://github.com/Manthan894/LeetCode-Question/tree/main/0621-task-scheduler/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Manthan894/LeetCode-Question/tree/main/0630-course-schedule-iii/) | Hard |
+| [0658-find-k-closest-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Manthan894/LeetCode-Question/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
