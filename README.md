@@ -106,6 +106,7 @@ Part - B Patterns <br>
 | [0053-maximum-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Manthan894/LeetCode-Question/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Manthan894/LeetCode-Question/tree/main/0057-insert-interval/) | Medium |
+| [0066-plus-one](https://github.com/Manthan894/LeetCode-Question/tree/main/0066-plus-one/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Manthan894/LeetCode-Question/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -165,6 +166,7 @@ Part - B Patterns <br>
 | [0007-reverse-integer](https://github.com/Manthan894/LeetCode-Question/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Manthan894/LeetCode-Question/tree/main/0012-integer-to-roman/) | Medium |
+| [0066-plus-one](https://github.com/Manthan894/LeetCode-Question/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
