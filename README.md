@@ -73,6 +73,7 @@ Part - B Patterns <br>
 | [0018-4sum](https://github.com/Manthan894/LeetCode-Question/tree/main/0018-4sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Manthan894/LeetCode-Question/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Manthan894/LeetCode-Question/tree/main/0061-rotate-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Manthan894/LeetCode-Question/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0202-happy-number/) | Easy |
@@ -107,6 +108,7 @@ Part - B Patterns <br>
 | [0056-merge-intervals](https://github.com/Manthan894/LeetCode-Question/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Manthan894/LeetCode-Question/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/Manthan894/LeetCode-Question/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Manthan894/LeetCode-Question/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -205,6 +207,7 @@ Part - B Patterns <br>
 | ------- | ------- |
 | [0018-4sum](https://github.com/Manthan894/LeetCode-Question/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Manthan894/LeetCode-Question/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Manthan894/LeetCode-Question/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
