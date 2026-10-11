@@ -144,6 +144,7 @@ Part - B Patterns <br>
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Manthan894/LeetCode-Question/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manthan894/LeetCode-Question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -456,4 +457,8 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manthan894/LeetCode-Question/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
