@@ -178,6 +178,7 @@ Part - B Patterns <br>
 | [0509-fibonacci-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Manthan894/LeetCode-Question/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +276,7 @@ Part - B Patterns <br>
 | [0871-minimum-number-of-refueling-stops](https://github.com/Manthan894/LeetCode-Question/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Manthan894/LeetCode-Question/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Manthan894/LeetCode-Question/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manthan894/LeetCode-Question/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
