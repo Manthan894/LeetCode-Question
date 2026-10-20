@@ -33,6 +33,7 @@ Part - B Patterns <br>
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Manthan894/LeetCode-Question/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Manthan894/LeetCode-Question/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manthan894/LeetCode-Question/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manthan894/LeetCode-Question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -150,6 +151,7 @@ Part - B Patterns <br>
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manthan894/LeetCode-Question/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Manthan894/LeetCode-Question/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Manthan894/LeetCode-Question/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manthan894/LeetCode-Question/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manthan894/LeetCode-Question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -175,6 +177,7 @@ Part - B Patterns <br>
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Manthan894/LeetCode-Question/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Manthan894/LeetCode-Question/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +293,7 @@ Part - B Patterns <br>
 | [0871-minimum-number-of-refueling-stops](https://github.com/Manthan894/LeetCode-Question/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Manthan894/LeetCode-Question/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Manthan894/LeetCode-Question/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Manthan894/LeetCode-Question/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manthan894/LeetCode-Question/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Recursion
