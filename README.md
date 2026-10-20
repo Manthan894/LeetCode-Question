@@ -144,6 +144,7 @@ Part - B Patterns <br>
 | [1046-last-stone-weight](https://github.com/Manthan894/LeetCode-Question/tree/main/1046-last-stone-weight/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manthan894/LeetCode-Question/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manthan894/LeetCode-Question/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Manthan894/LeetCode-Question/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -183,6 +184,7 @@ Part - B Patterns <br>
 | [0202-happy-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Manthan894/LeetCode-Question/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Divide and Conquer
@@ -194,6 +196,7 @@ Part - B Patterns <br>
 | [0169-majority-element](https://github.com/Manthan894/LeetCode-Question/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +210,7 @@ Part - B Patterns <br>
 | [0871-minimum-number-of-refueling-stops](https://github.com/Manthan894/LeetCode-Question/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manthan894/LeetCode-Question/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -380,6 +384,7 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +396,7 @@ Part - B Patterns <br>
 | [0111-minimum-depth-of-binary-tree](https://github.com/Manthan894/LeetCode-Question/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Manthan894/LeetCode-Question/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manthan894/LeetCode-Question/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -413,6 +419,7 @@ Part - B Patterns <br>
 | [0111-minimum-depth-of-binary-tree](https://github.com/Manthan894/LeetCode-Question/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Manthan894/LeetCode-Question/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manthan894/LeetCode-Question/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,6 +432,7 @@ Part - B Patterns <br>
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Manthan894/LeetCode-Question/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -484,4 +492,16 @@ Part - B Patterns <br>
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manthan894/LeetCode-Question/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
