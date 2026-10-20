@@ -147,6 +147,7 @@ Part - B Patterns <br>
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manthan894/LeetCode-Question/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Manthan894/LeetCode-Question/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manthan894/LeetCode-Question/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -168,6 +169,7 @@ Part - B Patterns <br>
 | [0852-peak-index-in-a-mountain-array](https://github.com/Manthan894/LeetCode-Question/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Manthan894/LeetCode-Question/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manthan894/LeetCode-Question/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manthan894/LeetCode-Question/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +237,7 @@ Part - B Patterns <br>
 | [0658-find-k-closest-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Manthan894/LeetCode-Question/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manthan894/LeetCode-Question/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manthan894/LeetCode-Question/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manthan894/LeetCode-Question/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sweep Line
