@@ -9,12 +9,10 @@ public:
             mn = min(mn, s[i]);
             mx = max(mx, s[i]);
         }
-        if (isSorted){
-            return 0;
-        }
-        if (n == 2){ 
-            return -1;
-        }
+        if (isSorted)return 0;
+        
+        if (n == 2)return -1;
+        
         if (s.front() == mn || s.back() == mx){
             return 1;
         }
