@@ -158,6 +158,7 @@ Part - B Patterns <br>
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manthan894/LeetCode-Question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manthan894/LeetCode-Question/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manthan894/LeetCode-Question/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Manthan894/LeetCode-Question/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
