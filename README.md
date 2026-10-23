@@ -157,6 +157,7 @@ Part - B Patterns <br>
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manthan894/LeetCode-Question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manthan894/LeetCode-Question/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Manthan894/LeetCode-Question/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manthan894/LeetCode-Question/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Manthan894/LeetCode-Question/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
@@ -180,6 +181,7 @@ Part - B Patterns <br>
 | [0187-repeated-dna-sequences](https://github.com/Manthan894/LeetCode-Question/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Manthan894/LeetCode-Question/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Manthan894/LeetCode-Question/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
