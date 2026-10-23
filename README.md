@@ -178,6 +178,7 @@ Part - B Patterns <br>
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Manthan894/LeetCode-Question/tree/main/0029-divide-two-integers/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Manthan894/LeetCode-Question/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Manthan894/LeetCode-Question/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -189,6 +190,7 @@ Part - B Patterns <br>
 | [0007-reverse-integer](https://github.com/Manthan894/LeetCode-Question/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Manthan894/LeetCode-Question/tree/main/0012-integer-to-roman/) | Medium |
+| [0029-divide-two-integers](https://github.com/Manthan894/LeetCode-Question/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/Manthan894/LeetCode-Question/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Manthan894/LeetCode-Question/tree/main/0509-fibonacci-number/) | Easy |
