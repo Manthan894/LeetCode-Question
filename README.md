@@ -62,6 +62,7 @@ Part - B Patterns <br>
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Manthan894/LeetCode-Question/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Manthan894/LeetCode-Question/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Manthan894/LeetCode-Question/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -197,6 +198,7 @@ Part - B Patterns <br>
 | [0877-stone-game](https://github.com/Manthan894/LeetCode-Question/tree/main/0877-stone-game/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Manthan894/LeetCode-Question/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Manthan894/LeetCode-Question/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
