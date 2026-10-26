@@ -379,6 +379,7 @@ Part - B Patterns <br>
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Manthan894/LeetCode-Question/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Manthan894/LeetCode-Question/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Manthan894/LeetCode-Question/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0607-sales-person](https://github.com/Manthan894/LeetCode-Question/tree/main/0607-sales-person/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
