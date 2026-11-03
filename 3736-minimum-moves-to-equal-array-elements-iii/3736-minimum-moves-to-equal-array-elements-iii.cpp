@@ -7,6 +7,6 @@ public:
             sum += x;
             mx = max(mx, x);
         }
-        return mx * nums.size() - sum;
+        return mx * nums.size() - sum; // This is the important part
     }
 };
