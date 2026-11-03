@@ -160,6 +160,7 @@ Part - B Patterns <br>
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manthan894/LeetCode-Question/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Manthan894/LeetCode-Question/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manthan894/LeetCode-Question/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Manthan894/LeetCode-Question/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Manthan894/LeetCode-Question/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Manthan894/LeetCode-Question/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
@@ -202,6 +203,7 @@ Part - B Patterns <br>
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Manthan894/LeetCode-Question/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Manthan894/LeetCode-Question/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Manthan894/LeetCode-Question/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
