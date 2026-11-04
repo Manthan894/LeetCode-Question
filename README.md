@@ -37,6 +37,7 @@ Part - B Patterns <br>
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manthan894/LeetCode-Question/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manthan894/LeetCode-Question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Manthan894/LeetCode-Question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manthan894/LeetCode-Question/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ Part - B Patterns <br>
 | [0480-sliding-window-median](https://github.com/Manthan894/LeetCode-Question/tree/main/0480-sliding-window-median/) | Hard |
 | [0567-permutation-in-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Manthan894/LeetCode-Question/tree/main/0658-find-k-closest-elements/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Manthan894/LeetCode-Question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +159,7 @@ Part - B Patterns <br>
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manthan894/LeetCode-Question/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Manthan894/LeetCode-Question/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manthan894/LeetCode-Question/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Manthan894/LeetCode-Question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Manthan894/LeetCode-Question/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Manthan894/LeetCode-Question/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manthan894/LeetCode-Question/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -202,6 +205,7 @@ Part - B Patterns <br>
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2029-stone-game-ix](https://github.com/Manthan894/LeetCode-Question/tree/main/2029-stone-game-ix/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Manthan894/LeetCode-Question/tree/main/2409-count-days-spent-together/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Manthan894/LeetCode-Question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Manthan894/LeetCode-Question/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Manthan894/LeetCode-Question/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Divide and Conquer
@@ -229,6 +233,7 @@ Part - B Patterns <br>
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Manthan894/LeetCode-Question/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manthan894/LeetCode-Question/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Manthan894/LeetCode-Question/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Manthan894/LeetCode-Question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Manthan894/LeetCode-Question/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -359,6 +364,7 @@ Part - B Patterns <br>
 | [0767-reorganize-string](https://github.com/Manthan894/LeetCode-Question/tree/main/0767-reorganize-string/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Manthan894/LeetCode-Question/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1046-last-stone-weight](https://github.com/Manthan894/LeetCode-Question/tree/main/1046-last-stone-weight/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Manthan894/LeetCode-Question/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
