@@ -1,5 +1,7 @@
 class Solution {
 public:
+//Sliding Window + Median to calculate the minimum operations needed for each subarray of size x.
+//Dynamic Programming to select exactly k non-overlapping subarrays with minimum total cost.
     long long minOperations(vector<int>& nums, int x, int k) {
         int n = nums.size();
         const long long INF = 1e18;
