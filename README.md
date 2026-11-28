@@ -399,6 +399,7 @@ Part - B Patterns <br>
 | [0627-swap-sex-of-employees](https://github.com/Manthan894/LeetCode-Question/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Manthan894/LeetCode-Question/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Manthan894/LeetCode-Question/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/Manthan894/LeetCode-Question/tree/main/1075-project-employees-i/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
